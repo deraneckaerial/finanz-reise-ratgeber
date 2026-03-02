@@ -1,0 +1,9 @@
+title: Finanz & Reise Ratgeber
+description: Vergleiche, Tests und Empfehlungen fuer kluge Entscheidungen
+url: https://deraneckaerial.github.io
+baseurl: /finanz-reise-ratgeber
+lang: de
+theme: minima
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
